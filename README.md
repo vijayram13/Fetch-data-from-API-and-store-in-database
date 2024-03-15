@@ -2,8 +2,7 @@
 ## Required Library:
 	1. requests
 	2. sqlite3
-	3. BeautifulSoup
-	[first install these libraries.]
+	
 
 
 ## Installation
